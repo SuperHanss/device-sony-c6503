@@ -18,7 +18,7 @@ $(call inherit-product, vendor/sony/odin_blobs/odin_blobs.mk)
 PRODUCT_NAME := full_c6503
 PRODUCT_DEVICE := c6503
 PRODUCT_BRAND := Sony
-PRODUCT_MODEL := Full Android on C6503
+PRODUCT_MODEL := Xperia ZL
 PRODUCT_MANUFACTURER := Sony
 PRODUCT_LOCALES += xxhdpi xhdpi hdpi
 
